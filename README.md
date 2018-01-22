@@ -17,3 +17,5 @@ Tokenize and Vectorize
   a. Tokenize Word, Sentence and Paragraph
   
   b. Vectorize : Word2Vec, Sent2Vec, Doc2Vec
+  
+  c. Stemming
